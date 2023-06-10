@@ -1,2 +1,2 @@
 # TabNews_clone
-Criando um clone do TabNews
+Creating a Tabnews clone
